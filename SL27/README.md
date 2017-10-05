@@ -1,0 +1,3 @@
+# Selous 2017 SRF
+
+This is set of example data from the Selous 2017 sample count (which was aborted due to foliage issues). The aim is to show a set of raw data and the code required to clean / import, feeding the squid as it were ... 
